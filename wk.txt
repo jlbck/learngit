@@ -1,3 +1,2 @@
 Git is a distributed version control system.
-HEllo wk
 it's me my friend
