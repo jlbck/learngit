@@ -5,9 +5,7 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 hellow!sdfds
 hellow!22222222222222222sf
-<<<<<<< Updated upstream
 this  sdfdf bsdfff   aaaaaaaaa
 bbdfdfdfdfdfdf
-=======
-this  sdfdf bsdfffaaaaaa
->>>>>>> Stashed changes
+this  sdfdf bsdfffaaa
+Stashed changes
